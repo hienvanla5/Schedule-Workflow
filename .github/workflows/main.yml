@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Print Message
-      run: echo "Schedule Workflow Excuted"
+        run: echo "Schedule Workflow Executed"
